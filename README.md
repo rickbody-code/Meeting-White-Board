@@ -14,3 +14,4 @@ A collaborative whiteboard tool designed for financial planning sessions.
 1. Open the live demo: [Your GitHub Pages URL]
 2. Click "Backgrounds" to choose a template
 3. Start drawing and collaborating!
+JUST ADDING STUFF so will redeploy
